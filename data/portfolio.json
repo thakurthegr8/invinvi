@@ -1,9 +1,9 @@
 {
     "name": "Invinvi",
-    "headerTaglineOne": "Leading digital agency  ",
-    "headerTaglineTwo": "with development expertise",
-    "headerTaglineThree": "making readymade websites",
-    "headerTaglineFour": "and mobile applications.",
+    "headerTaglineOne": "Empowering your digital dreams ",
+    "headerTaglineTwo": "at Invinvi Consulting ",
+    "headerTaglineThree": "where innovation meets ",
+    "headerTaglineFour": "inspiration.",
     "showCursor": true,
     "showBlog": true,
     "darkMode": true,
@@ -77,23 +77,23 @@
     "services": [
         {
             "id": "1",
-            "title": "App Development",
-            "description": "We help with the creation and development of iOS and android applications, with particular focus on their visual appearance."
+            "title": "Digital Transformation",
+            "description": "Want to stay ahead of the competition? Our digital transformation services are designed to help you leverage the latest technologies and get ahead in your industry. Whether you're in healthcare, retail, or finance, we'll create a tailored strategy that aligns with your business goals and gets results."
         },
         {
             "id": "2",
-            "title": "Branding",
-            "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+            "title": "Website Design",
+            "description": "First impressions matter, and our custom website design services are designed to help you make a great one. We'll create a user-friendly, visually appealing website that's optimized for search engines and designed to convert visitors into customers. Don't believe us? Check out our recent project with a boutique fashion brand - they saw a 30% increase in website traffic and a 25% increase in sales!"
         },
         {
             "id": "3",
-            "title": "Web Design",
-            "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+            "title": "Mobile App Development",
+            "description": "With more and more people accessing the internet through mobile devices, having a killer mobile app is a must. Our mobile application development services are designed to help you reach your target audience on the go, whether you're in the restaurant, healthcare, or hospitality industry. Just ask our restaurant chain client - they saw a 20% increase in online orders and a 15% increase in foot traffic thanks to our app."
         },
         {
             "id": "4",
-            "title": "3D Design",
-            "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+            "title": "SaaS Application Development",
+            "description": "Ready to take your business to the cloud? Our SaaS application development services are designed to help you streamline your operations and drive growth. From finance to education to manufacturing, we'll create a SaaS application that's tailored to your specific needs. Take it from our financial services client - they saw a 25% increase in customer retention and a 30% increase in revenue thanks to our SaaS-based CRM system."
         }
     ],
     "aboutpara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
